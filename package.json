@@ -1,0 +1,22 @@
+{
+  "name": "sqlite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royschuyler/sqlite.git"
+  },
+  "author": "roy schuyler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/royschuyler/sqlite/issues"
+  },
+  "homepage": "https://github.com/royschuyler/sqlite#readme",
+  "dependencies": {
+    "sqlite3": "^3.0.10"
+  }
+}
